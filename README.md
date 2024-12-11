@@ -1,8 +1,8 @@
 Hello there 👋,
 
-I am a data scientist with a strong background in UX design, community building, and driving growth through data-driven strategies. My passion lies in creating intuitive, user-centered designs that enhance user experience while leveraging data to inform decision-making and optimize business outcomes. With years of experience in fostering online communities and delivering results through strategic insights, I thrive on transforming complex data into actionable solutions that drive engagement and growth.
+I am a data scientist skilled in leveraging large datasets, predictive modeling, and data visualization to uncover actionable insights and drive business growth. I am proficient in data manipulation, feature engineering, and storytelling with a strong foundation in collaborative research, machine learning, and cloud computing.
 
-Feel free to send me an email at adungoojiambo@gmail.com if you want to talk data, user experience design or just want to chat!
+Feel free to send me an email at adungoojiambo@gmail.com if you want to hire me, talk data, or want to chat!
 
 <!--
 **A1995Ojiambo/A1995Ojiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
